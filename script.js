@@ -5,7 +5,7 @@ const toggleBtn = document.getElementById("themeToggle");
 const body = document.body;
 
 // Sound for theme switching
-const switchSound = new Audio("switch.mp3"); // Place this file in your project root
+const switchSound = new Audio("mouse-click-331781.mp3"); // Place this file in your project root
 
 // Apply saved theme (if any)
 const savedTheme = localStorage.getItem("theme");
